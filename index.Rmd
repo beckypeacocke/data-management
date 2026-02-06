@@ -46,21 +46,21 @@ The core outcomes/concepts I hope you’ll come away with:
 
 ## Lectures/Discussions/Tutorials
 
-These will be held live in person in BIO LT1 from 9:30 to 11:30AM from the 17th to the 21st February unless otherwise announced on Amathuba. 
+These will be held live in person in BIO LT1 from 9:30 to 11:30AM from the 16th to the 20th February unless otherwise announced on Amathuba. 
 
 I’ll be adding to (and mostly teaching from) these online course notes as we go along.
 
 The schedule of lectures (and readings) is as follows:
 
-- Monday, 17th Feb - Reproducible Research [@Baker2016; @Peng2011; @Markowetz2015]
-- Tuesday, 18th Feb - Data Management [@Michener2012]
-- Wednesday, 19th Feb - GitHub, Tidy Data and Data Wrangling [@Wickham2014; @Wickham2019]
-- Thursday, 20th Feb - Tidy Data and Data Wrangling continued (your turn) 
-- Friday, 21st Feb - We can discuss if you need me available to help. Possibly online.
+- Monday, 16th Feb - Reproducible Research [@Baker2016; @Peng2011; @Markowetz2015]
+- Tuesday, 17th Feb - Data Management [@Michener2012]
+- Wednesday, 18th Feb - GitHub, Tidy Data and Data Wrangling [@Wickham2014; @Wickham2019]
+- Thursday, 19th Feb - Tidy Data and Data Wrangling continued (your turn) 
+- Friday, 20th Feb - We can discuss if you need me available to help. Possibly online.
 
-There will also be an online [UCT Data Management Plan tutorial](https://uct.ac.za.libcal.com/event/13853106) with Sanjin Muftic (UCT Libraries) on Wednesday, 19th Feb at 1PM.
+There will also be an online [UCT Data Management Plan tutorial]( https://uct.ac.za.libcal.com/event/16066564) with Sanjin Muftic (UCT Libraries) on Tuesday the 17th Feb at 1PM.
 
-## Deliverables (Due Thursday the 27th February) {#deliverables}
+## Deliverables (Due Thursday the 26th February) {#deliverables}
 
 1. A draft Data Management Plan (DMP) for your Honours Project (or mock project) using [UCT's Online DMP Tool](https://dmp.lib.uct.ac.za/). Please use the "UCT Student Generic - Full DMP" template. This is a draft, so don't worry too much about getting it perfect, but do try to think about what data you'll be collecting, how you'll store it, how you'll back it up, and how you'll share it. You'll need to submit a link to the DMP with your Honour's project, so it's worth getting a head start on this now.
 
@@ -72,9 +72,10 @@ There will also be an online [UCT Data Management Plan tutorial](https://uct.ac.
   - The Binder badge can be created by going to [Binder](https://mybinder.org/), pasting the URL of your GitHub repository into the "GitHub repository name or URL" box, and clicking "launch". If it works, you'll be taken to a page where you can interact with your repository online. Copy the URL of this page (under "Badges for your README" on the Binder landing page) and paste it into the README of your repository. This will create a badge that will take anyone who clicks on it to the Binder page where they can interact with your repository online. NOTE: Binder sometimes fails. I think this is because it's a free service and gets overloaded. If it fails, try again later. If it fails repeatedly, try again later. If no luck before the submission deadline, let me know and submit the link to your repository without the Binder badge. It also sometimes freezes and looks like it's running for ages (>15 minutes). In those cases it has usually worked and just not told you, so try the link.
   - Please test your repository by clicking on the Binder badge in your README. If it works, you should be taken to a page where you can interact with your repository online. Click on the RStudio icon to open an RStudio session in your browser. You can then open and run your R script (or RMarkdown or Quarto file) from here. If it doesn't work, your repo probably isn't reproducible. Check the warning and troubleshoot...
   
-3. Lastly, I'd like you to spend some time reading up about reproducible research and data management (preferably relevant to our field) and to share any interesting resources you find - a link to a paper, news article, blog, tutorial, etc - with a 50 to 200 word summary of what it is and why its relevant and interesting. These will be collected and shared with the class either via Google Forms or GitHub (just as soon as I've set it up...).
+3. Lastly, I'd like you to spend some time reading up about reproducible research and data management (preferably relevant to our field) and to share any interesting resources you find - a link to a paper, news article, blog, tutorial, etc - with a 50 to 200 word summary of what it is and why its relevant and interesting. These need to be different to those already listed in the Further Reading below. You will share your contribution with me (and the world) by using GitHub to clone this repository, adding your content to the Further Reading section and sending me a pull request. You'll see how to do this on Wednesday.
 
-## Software installation and setup (Due Monday 17th Feb) {#setup}
+
+## Software installation and setup (Due Monday 16th Feb) {#setup}
 
 For the data wrangling exercise and the second deliverable, we'll be using the [R](https://cran.r-project.org/) statistical programming language and the [Git](https://git-scm.com/) version control system. We'll also be using an [integrated development environment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment) for each: [RStudio](https://www.rstudio.com) and [GitHub](https://github.com/), respectively.
 
