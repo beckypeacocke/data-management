@@ -30,7 +30,7 @@ knitr::write_bib(c(
 
 This really is a minimalist introduction. We only have a week! I’ll focus on providing a broad overview of the general framework and motivation for reproducible research (including good data management), teaching a few practical skills along the way. 
 
-Mostly this is not fun and exciting, but it is important stuff for any biologist to know. I’ll try my best to make it interesting! Hopefully by the end of the module you’ll see the value in it all - both for you as an individual and for science and society in general.
+Mostly this is not fun and exciting, but it is important stuff for any scientist to know. I’ll try my best to make it interesting! Hopefully by the end of the module you’ll see the value in it all - both for you as an individual and for science and society in general.
 
 > _"Let us emphasize again this obvious conclusion: a scholar's positive contribution is measured by the sum of the original data that [they] contribute... Hypotheses come and go but data remain. Theories desert us, while data defend us. They are our true resources, our real estate, and our best pedigree. In the eternal shifting of things, only they will save us from the ravages of time and from the forgetfulness or injustice of [people]. To risk everything on the success of one idea is to forget that every fifteen or twenty years theories are replaced or revised. So many apparently conclusive theories in physics, chemistry, geology, and biology have collapsed in the last few decades!"_ - Santiago Ramón y Cajal, 1906 Nobel Laureate, from _Advice for a Young Investigator_ 1898 [@Ramon1999]
 
