@@ -21,6 +21,7 @@ That should be it!
 
 ---
 
+
 ## library(osfr) for interacting with the [Open Science Framework (OSF)](https://osf.io/) from R
 
 [library(osfr)](https://docs.ropensci.org/osfr/) is an R package that allows you to interact with OSF directly from R. OSF is a free and open source project management repository designed to support researchers across their entire project lifecycle. The service includes unlimited cloud storage and file version history, providing a centralized location for all your research materials that can be kept private, shared with select collaborators, or made publicly available with citable DOIs. You can use library(osfr) to explore publicly accessible projects and download the associated files — all you need to get started is the project’s URL or GUID (global unique identifier). library(osfr) can also be used for project management by creating projects, add sub-components or directories, and uploading files.
@@ -28,6 +29,14 @@ That should be it!
 > Contributor: Jasper
 
 ---
+## Webinar about irreproducibility in Ecology 
+
+This seminar highlights the replicability crisis, why replicability is specifically so important in ecology  and explains some ways that they are applied through the presenters studies. 
+There is a widespread issue of irreplicability in science across fields, due to questionable research practices, cherry picking, only showing desirable results etc. as well as the large problem with academic culture. Many scientists in ecology would rather publish ‘original’ work and find it hard to find funding for replication studies, and hence have decreasing the number of replication studies done.
+The presenter goes on to explain these issues in more depth, with examples and finally how, and with what studies she is planning on addressing the issue of irreplaceability in Ecological sciences.
+Link to video: https://youtu.be/3hnYSTXkoJA?si=BKQ1Yk3LgEtELlvN 
+
+> Contributor: Meghan M
 
 ## Ivimey-Cook et al. (2025) “From policy to practice: progress towards data- and code-sharing in ecology and evolution”
 
