@@ -29,6 +29,7 @@ That should be it!
 > Contributor: Jasper
 
 ---
+
 ## Webinar about irreproducibility in Ecology 
 
 This seminar highlights the replicability crisis, why replicability is specifically so important in ecology  and explains some ways that they are applied through the presenters studies. 
@@ -37,6 +38,8 @@ The presenter goes on to explain these issues in more depth, with examples and f
 Link to video: https://youtu.be/3hnYSTXkoJA?si=BKQ1Yk3LgEtELlvN 
 
 > Contributor: Meghan M
+
+---
 
 ## Ivimey-Cook et al. (2025) “From policy to practice: progress towards data- and code-sharing in ecology and evolution”
 

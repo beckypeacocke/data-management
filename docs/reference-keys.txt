@@ -104,3 +104,4 @@ wildlife-biology-big-data-and-reproducible-research-lewis-van-der-wal-and-fifiel
 how-fair-are-plant-sciences-in-the-twenty-first-century-the-pressing-need-for-reproducibility-in-plant-ecology-and-evolution
 fig:rstudiosuccess
 ivimey-cook-et-al.-2025-from-policy-to-practice-progress-towards-data--and-code-sharing-in-ecology-and-evolution
+webinar-about-irreproducibility-in-ecology
