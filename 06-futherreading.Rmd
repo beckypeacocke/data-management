@@ -30,6 +30,17 @@ That should be it!
 
 ---
 
+
+## Lortie et al. (2022) "Tabular strategies for metadata in ecology, evolution, and the environmental sciences"
+
+Lortie et al. highlight the importance of metadata and propose a standardised way of documenting ecological metadata in a table format. This makes it easier to compare metadata between datasets, promotes reproducibility and streamlines workflow when working on projects. Like how datasets can be organised and standardised as “tidy tables” in R using tidyverse packages, the same can be done for metadata. The paper gives examples on how to structure and organise metadata and shows step by step how to do this. It also gives details on tools that can assist you in formatting your metadata.
+
+https://doi: 10.1002/ece3.9245
+
+> Contributor: Rebecca Peacocke
+
+---
+
 ## Webinar about irreproducibility in Ecology 
 
 This seminar highlights the replicability crisis, why replicability is specifically so important in ecology  and explains some ways that they are applied through the presenters studies. 
